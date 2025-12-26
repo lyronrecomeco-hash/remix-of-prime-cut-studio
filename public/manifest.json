@@ -1,0 +1,17 @@
+{
+  "name": "Barber Studio",
+  "short_name": "Barber",
+  "description": "Barbearia premium com agendamento online",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0a0a",
+  "theme_color": "#0a0a0a",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "64x64",
+      "type": "image/x-icon"
+    }
+  ]
+}
